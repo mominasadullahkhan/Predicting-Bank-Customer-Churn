@@ -13,16 +13,16 @@ For this project I implemented the first predictive model for my banking organiz
 
 To find out more about this project, check out the attached presentation below!
 
-Jupyter notebook for project: [View here](http://google.com)
+Jupyter notebook for project: [View here](https://github.com/mominasadullahkhan/Predicting-Bank-Customer-Churn/blob/master/Final%20Model%20%2B%20Analysis%20Notebook/Capstone_Project_1_Final_Notebook.ipynb)
 
-Final write up: [View here](http://google.com)
+Final write up: [View here](https://github.com/mominasadullahkhan/Predicting-Bank-Customer-Churn/blob/master/Capstone1_Final_Report.pdf)
 
-Slides presentation: [View here](http://google.com)
+Slides presentation: [View here](https://github.com/mominasadullahkhan/Predicting-Bank-Customer-Churn/blob/master/Springboard_Capstone1_SlideDeck.pdf)
 
-Blog post: [View here](http://google.com
+Blog post: [View here](https://medium.com/@mominasadullah/a-friendly-walk-through-of-a-data-science-capstone-project-d9f9029b7aa8)
 
-The nitty gritty detailed reports depicting the process: [Write Ups](http://google.com) | [Notebooks](http://google.com)
+The detailed reports depicting the process: [Write Ups](https://github.com/mominasadullahkhan/Predicting-Bank-Customer-Churn/tree/master/Detailed%20Milestone%20Reports) | [Notebooks](https://github.com/mominasadullahkhan/Predicting-Bank-Customer-Churn/tree/master/Detailed%20Milestone%20Notebooks)
 
-For more information about my Springboard work: All of the documentation, code, and notes can be found [here](http://google.com). 
+For more information about my Springboard work: All of the documentation, code, and notes can be found [here](https://github.com/mominasadullahkhan/Springboard). 
 
-For questions or comments, please feel free to reach out on [LinkedIn!](http://google.com) or [Twitter](http://google.com)
+For questions or comments, please feel free to reach out on [LinkedIn!](https://www.linkedin.com/in/mominkhan94/) or [Twitter](https://twitter.com/mominasadullah)
